@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as 
 import random
 
 # Listy do przechowywania wygenerowanych danych
