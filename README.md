@@ -17,4 +17,4 @@ Głównym celem projektu jest przewidywanie zapotrzebowania na energię elektryc
 ## 💡 Technologie
 * **Python** (SymPy, Pandas)
 * **SQL**
-* **Power BI**
+* **Power BI
