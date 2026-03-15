@@ -1,4 +1,4 @@
-import sympy as sp
+import sympy as 
 import pandas as pd
 
 # 1. Definicja zmiennych symbolicznych dla modelu matematycznego
