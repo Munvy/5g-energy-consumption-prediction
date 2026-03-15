@@ -1,4 +1,4 @@
-Skrypt ekstrahujący dane do modelu optymalizacji zużycia prądu 5G
+-- Skrypt ekstrahujący dane do modelu optymalizacji zużycia prądu 5G
 -- Wynik tego zapytania eksportujemy do pliku: dane_5g.csv
 
 SELECT
