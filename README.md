@@ -12,7 +12,7 @@ Głównym celem projektu jest przewidywanie zapotrzebowania na energię elektryc
 4. **Wizualizacja**: Raport Power BI przedstawiający trendy zużycia.
 
 ## 📊 Wyniki Wizualne
-![Dashboard](obraz_2026-03-14_132254575.png)
+![Dashboard 5G](5g-dashboard-preview.png)
 
 ## 💡 Technologie
 * **Python** (SymPy, Pandas)
